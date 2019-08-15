@@ -16,7 +16,9 @@ import org.apache.flink.table.api.java.StreamTableEnvironment;
 import java.sql.Timestamp;
 import java.util.Properties;
 
-
+/**
+ * @see https://blog.csdn.net/qq_20672231/article/details/84936716
+ */
 public class FlinkSqlWindowUserPv {
 
     public static void main(String[] args) throws Exception {
